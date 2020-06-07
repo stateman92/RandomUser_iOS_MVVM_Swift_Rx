@@ -1,0 +1,142 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "2777659076fda38bd4e487739ee331c7a65b5924",
+          "version": "5.2.1"
+        }
+      },
+      {
+        "package": "AlamofireImage",
+        "repositoryURL": "https://github.com/Alamofire/AlamofireImage",
+        "state": {
+          "branch": null,
+          "revision": "3e8edbeb75227f8542aa87f90240cf0424d6362f",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "Hero",
+        "repositoryURL": "https://github.com/HeroTransitions/Hero",
+        "state": {
+          "branch": null,
+          "revision": "ae951b89f23485de8a7b95aaa5cead7f78ab1df0",
+          "version": "1.5.0"
+        }
+      },
+      {
+        "package": "Just",
+        "repositoryURL": "https://github.com/dduan/Just",
+        "state": {
+          "branch": null,
+          "revision": "1824bf84cf52d11d69ae20cfb89f0ce5bffa5650",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher",
+        "state": {
+          "branch": null,
+          "revision": "910d808ade2a576e1a292ceb458a6fa43f67f594",
+          "version": "5.14.0"
+        }
+      },
+      {
+        "package": "Lottie",
+        "repositoryURL": "https://github.com/airbnb/lottie-ios",
+        "state": {
+          "branch": null,
+          "revision": "4e5877425dae5c10792fc9d22d53dc6bf6824dc1",
+          "version": "3.1.8"
+        }
+      },
+      {
+        "package": "Moya",
+        "repositoryURL": "https://github.com/Moya/Moya",
+        "state": {
+          "branch": null,
+          "revision": "b3e5a233e0d85fd4d69f561c80988590859c7dee",
+          "version": "14.0.0"
+        }
+      },
+      {
+        "package": "Nuke",
+        "repositoryURL": "https://github.com/kean/Nuke",
+        "state": {
+          "branch": null,
+          "revision": "1267d1c7cdfb7e3ac7bc654db0e5cfd6a9f18c9e",
+          "version": "9.1.0"
+        }
+      },
+      {
+        "package": "ReactiveSwift",
+        "repositoryURL": "https://github.com/Moya/ReactiveSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "f195d82bb30e412e70446e2b4a77e1b514099e88",
+          "version": "6.1.0"
+        }
+      },
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa",
+        "state": {
+          "branch": null,
+          "revision": "8cc4d9ea5815f34c39a518261f81a82ca3270b69",
+          "version": "5.0.2"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "bc900a2a8e05722c1b42f95396adb3c99eeb500f",
+          "version": "6.0.6"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "002d325b0bdee94e7882e1114af5ff4fe1e96afa",
+          "version": "5.1.1"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "state": {
+          "branch": null,
+          "revision": "5818cf70fde7e9e07e24196d0d54350bc8526f26",
+          "version": "5.8.0"
+        }
+      },
+      {
+        "package": "SkeletonView",
+        "repositoryURL": "https://github.com/Juanpe/SkeletonView",
+        "state": {
+          "branch": null,
+          "revision": "d09a5d75ee09a89db2555a83ab2d61d04c93419b",
+          "version": "1.8.7"
+        }
+      },
+      {
+        "package": "Swinject",
+        "repositoryURL": "https://github.com/Swinject/Swinject",
+        "state": {
+          "branch": null,
+          "revision": "8a76d2c74bafbb455763487cc6a08e91bad1f78b",
+          "version": "2.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
